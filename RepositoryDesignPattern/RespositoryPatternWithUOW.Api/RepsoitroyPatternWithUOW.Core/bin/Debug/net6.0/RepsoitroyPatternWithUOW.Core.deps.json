@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RepsoitroyPatternWithUOW.Core/1.0.0": {
+        "runtime": {
+          "RepsoitroyPatternWithUOW.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RepsoitroyPatternWithUOW.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

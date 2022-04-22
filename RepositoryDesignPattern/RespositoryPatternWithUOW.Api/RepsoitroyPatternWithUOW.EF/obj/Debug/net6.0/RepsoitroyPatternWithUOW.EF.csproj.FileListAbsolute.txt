@@ -1,0 +1,17 @@
+F:\ESLAM\Software\Courses\RepositoryDesignPattern\RepositoryDesignPattern\RespositoryPatternWithUOW.Api\RepsoitroyPatternWithUOW.EF\bin\Debug\net6.0\RepsoitroyPatternWithUOW.EF.deps.json
+F:\ESLAM\Software\Courses\RepositoryDesignPattern\RepositoryDesignPattern\RespositoryPatternWithUOW.Api\RepsoitroyPatternWithUOW.EF\bin\Debug\net6.0\RepsoitroyPatternWithUOW.EF.runtimeconfig.json
+F:\ESLAM\Software\Courses\RepositoryDesignPattern\RepositoryDesignPattern\RespositoryPatternWithUOW.Api\RepsoitroyPatternWithUOW.EF\bin\Debug\net6.0\RepsoitroyPatternWithUOW.EF.dll
+F:\ESLAM\Software\Courses\RepositoryDesignPattern\RepositoryDesignPattern\RespositoryPatternWithUOW.Api\RepsoitroyPatternWithUOW.EF\bin\Debug\net6.0\RepsoitroyPatternWithUOW.EF.pdb
+F:\ESLAM\Software\Courses\RepositoryDesignPattern\RepositoryDesignPattern\RespositoryPatternWithUOW.Api\RepsoitroyPatternWithUOW.EF\obj\Debug\net6.0\RepsoitroyPatternWithUOW.EF.csproj.AssemblyReference.cache
+F:\ESLAM\Software\Courses\RepositoryDesignPattern\RepositoryDesignPattern\RespositoryPatternWithUOW.Api\RepsoitroyPatternWithUOW.EF\obj\Debug\net6.0\RepsoitroyPatternWithUOW.EF.GeneratedMSBuildEditorConfig.editorconfig
+F:\ESLAM\Software\Courses\RepositoryDesignPattern\RepositoryDesignPattern\RespositoryPatternWithUOW.Api\RepsoitroyPatternWithUOW.EF\obj\Debug\net6.0\RepsoitroyPatternWithUOW.EF.AssemblyInfoInputs.cache
+F:\ESLAM\Software\Courses\RepositoryDesignPattern\RepositoryDesignPattern\RespositoryPatternWithUOW.Api\RepsoitroyPatternWithUOW.EF\obj\Debug\net6.0\RepsoitroyPatternWithUOW.EF.AssemblyInfo.cs
+F:\ESLAM\Software\Courses\RepositoryDesignPattern\RepositoryDesignPattern\RespositoryPatternWithUOW.Api\RepsoitroyPatternWithUOW.EF\obj\Debug\net6.0\RepsoitroyPatternWithUOW.EF.csproj.CoreCompileInputs.cache
+F:\ESLAM\Software\Courses\RepositoryDesignPattern\RepositoryDesignPattern\RespositoryPatternWithUOW.Api\RepsoitroyPatternWithUOW.EF\obj\Debug\net6.0\RepsoitroyPatternWithUOW.EF.dll
+F:\ESLAM\Software\Courses\RepositoryDesignPattern\RepositoryDesignPattern\RespositoryPatternWithUOW.Api\RepsoitroyPatternWithUOW.EF\obj\Debug\net6.0\refint\RepsoitroyPatternWithUOW.EF.dll
+F:\ESLAM\Software\Courses\RepositoryDesignPattern\RepositoryDesignPattern\RespositoryPatternWithUOW.Api\RepsoitroyPatternWithUOW.EF\obj\Debug\net6.0\RepsoitroyPatternWithUOW.EF.pdb
+F:\ESLAM\Software\Courses\RepositoryDesignPattern\RepositoryDesignPattern\RespositoryPatternWithUOW.Api\RepsoitroyPatternWithUOW.EF\obj\Debug\net6.0\RepsoitroyPatternWithUOW.EF.genruntimeconfig.cache
+F:\ESLAM\Software\Courses\RepositoryDesignPattern\RepositoryDesignPattern\RespositoryPatternWithUOW.Api\RepsoitroyPatternWithUOW.EF\obj\Debug\net6.0\ref\RepsoitroyPatternWithUOW.EF.dll
+F:\ESLAM\Software\Courses\RepositoryDesignPattern\RepositoryDesignPattern\RespositoryPatternWithUOW.Api\RepsoitroyPatternWithUOW.EF\bin\Debug\net6.0\RepsoitroyPatternWithUOW.Core.dll
+F:\ESLAM\Software\Courses\RepositoryDesignPattern\RepositoryDesignPattern\RespositoryPatternWithUOW.Api\RepsoitroyPatternWithUOW.EF\bin\Debug\net6.0\RepsoitroyPatternWithUOW.Core.pdb
+F:\ESLAM\Software\Courses\RepositoryDesignPattern\RepositoryDesignPattern\RespositoryPatternWithUOW.Api\RepsoitroyPatternWithUOW.EF\obj\Debug\net6.0\RepsoitroyPatternWithUOW.EF.csproj.CopyComplete
